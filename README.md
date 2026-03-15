@@ -1,2 +1,45 @@
 # mujahid_maruf
-About myself
+<h1 align="center">Hi 👋, I'm Mujahidul Islam</h1>
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F71C1C&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Full+Stack+Developer;Python+Enthusiast;Always+Learning..." alt="Typing SVG" />
+  </a>
+</h3>
+
+# About Me:
+**Computer Science Student | Tech Enthusiast**<br><br>I am currently pursuing my degree in CSE at **Independent University, Bangladesh**.<br><br>* 🏫 **Student:** Independent University, Bangladesh (IUB)<br>* 💻 **Major:** Computer Science and Engineering<br>* 🌱 **Learning:** Data Structures, Algorithms, AI and ML<br>* 💬 **Ask me about:** Python<br>* 📫 **Reach me:** 01mujahidul@gmail.com
+
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/01mujahidul) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_mujahidul__islam_/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-mujahidul-islam-maruf-6b078a3b3/)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:01mujahidul@gmail.com) 
+
+### 💻 Coding Profiles:
+
+<!-- [![Toph](https://img.shields.io/badge/Toph-2ECC71?logo=codeforces&logoColor=white)](https://toph.co/u/sms_morsalin)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/smsmorsalin/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&logoColor=white)](https://hackerrank.com/smsmorsalin)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white)](https://codeforces.com/profile/smsmorsalin) -->
+
+<!-- # 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)  ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) -->
+
+<!-- /
+<br>
+### ⏳ Weekly Coding Time
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=smsmorsalin&theme=dracula&layout=compact&range=all_time&v=1)](https://wakatime.com/@smsmorsalin)
+<br><br>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=smsmorsalin&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=smsmorsalin&limit=5&theme=dark&combine_all_yearly_contributions=true)
+---
+
+[![wakatime](https://wakatime.com/badge/user/3df21c7c-4db0-4284-a0cb-db69decb69f0.svg?v=1)](https://wakatime.com/@3df21c7c-4db0-4284-a0cb-db69decb69f0) -->
+<!-- <br> -->
+<!-- ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=smsmorsalin.smsmorsalin) -->
+
